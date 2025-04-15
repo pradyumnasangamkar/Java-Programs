@@ -11,7 +11,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        int num1 = 10;
+        int num1 = 19;
         int num2 = 5;
 
         int sum = add(num1, num2);          // calling add function
